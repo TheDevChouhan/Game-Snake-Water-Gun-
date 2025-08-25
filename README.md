@@ -1,7 +1,7 @@
 # Snake-Water-Gun Game 🎮
 
 A fun command-line implementation of the classic Snake-Water-Gun game (similar to Rock-Paper-Scissors) built using Python.  
-In this game, you compete against the computer — can you beat the system?
+In this game, you compete against the computer — can you beat the system?😎
 
 ---
 
